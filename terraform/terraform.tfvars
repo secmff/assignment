@@ -1,0 +1,12 @@
+
+region="eu-west-1"
+instance_type="t3.large"
+availability_zone_1="eu-west-1a"
+availability_zone_2="eu-west-1b"
+ecs_key_pair_name="mmrc"
+public_cidr="31.21.231.191/32"
+elasticsearch_image="444836393510.dkr.ecr.eu-west-1.amazonaws.com/elasticsearch:latest"
+logstash_image="444836393510.dkr.ecr.eu-west-1.amazonaws.com/logstash:latest"
+kibana_image="docker.elastic.co/kibana/kibana:7.7.0"
+filebeat_image="444836393510.dkr.ecr.eu-west-1.amazonaws.com/filebeat:latest"
+apache_image="444836393510.dkr.ecr.eu-west-1.amazonaws.com/apache:latest"

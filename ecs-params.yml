@@ -1,0 +1,14 @@
+version: 1
+task_definition:
+  services:
+    elasticsearch:
+      mem_limit: 1500M
+    logstash:
+      mem_limit: 1024M
+    kibana:
+      mem_limit: 1524M
+  docker_volume:
+    - name: elasticsearch
+      scope: "shared"
+      autoprovision: true
+      driver: ecs

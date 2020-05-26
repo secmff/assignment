@@ -1,0 +1,19 @@
+[
+    {
+	"name": "filebeat",
+	"image": "${image}",
+	"essential": true,
+	"memory": 512,
+	"cpu": 10,
+        "mountPoints": [{
+	    "containerPath": "/var/lib/docker/containers",
+	    "readOnly": true,
+	    "sourceVolume": "containers"
+        },
+	{
+	    "containerPath": "/var/run/docker.sock",
+	    "readOnly": true,
+	    "sourceVolume": "docker-sock"
+        }]
+    }
+]

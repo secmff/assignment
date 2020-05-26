@@ -1,0 +1,19 @@
+---
+cluster.name: "mmrc"
+network.host: 0.0.0.0
+# SOMEDAY: use autodiscovery to setup the cluster
+# network.publish_host: _ec2:privateIp_
+# transport.publish_host: _ec2:privateIp_
+# discovery.zen.hosts_provider: ec2
+# discovery.ec2.tag.ElasticSearch: mmrc
+# discovery.ec2.endpoint: ec2.${REGION}.amazonaws.com
+# s3.client.default.endpoint: s3.${REGION}.amazonaws.com
+# cloud.node.auto_attributes: true
+# cluster.routing.allocation.awareness.attributes: aws_availability_zone
+discovery.type: single-node
+
+## X-Pack settings
+#
+xpack.license.self_generated.type: basic
+xpack.security.enabled: false
+xpack.monitoring.collection.enabled: true

@@ -1,0 +1,21 @@
+[
+    {
+	"name": "kibana",
+	"image": "${image}",
+	"essential": true,
+	"portMappings": [
+	    {
+		"containerPort": 5601,
+		"hostPort": 0
+	    }
+	],
+	"memory": 1524,
+	"cpu": 20,
+	"environment": [
+	    {
+		"name": "ELASTICSEARCH_HOSTS",
+		"value": "http://elasticsearch.local:9200"
+	    }
+	]
+    }
+]

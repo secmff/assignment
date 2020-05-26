@@ -1,0 +1,46 @@
+[
+    {
+	"name": "elasticsearch",
+	"image": "${image}",
+	"essential": true,
+	"portMappings": [
+	    {
+		"containerPort": 9200,
+		"hostPort": 9200
+	    },
+	    {
+		"containerPort": 9300,
+		"hostPort": 9300
+	    }
+	],
+	"memory": 1500,
+	"cpu": 20,
+	"ulimits": [
+	    {
+		"name": "nofile",
+		"softLimit": 65535,
+                "hardLimit": 65535
+	    }
+	],
+	"environment": [
+	    {
+		"name": "ES_JAVA_OPTS",
+		"value": "-Xmx1g -Xms1g"
+	    },
+	    {
+		"name": "ELASTIC_PASSWORD",
+		"value": "changeme"
+	    },
+	    {
+		"name": "REGION",
+		"value": "${region}"
+	    }
+	],
+	"mountPoints": [
+	    {
+	        "sourceVolume": "elasticsearch",
+	        "containerPath": "/usr/share/elasticsearch/data"
+	    }
+	]
+    }
+]

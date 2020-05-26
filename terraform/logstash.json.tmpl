@@ -1,0 +1,21 @@
+[
+    {
+	"name": "logstash",
+	"image": "${image}",
+	"essential": true,
+	"portMappings": [
+	    {
+		"containerPort": 5000,
+		"hostPort": 5000
+	    }
+	],
+	"memory": 1024,
+	"cpu": 20,
+	"environment": [
+	    {
+		"name": "ES_JAVA_OPTS",
+		"value": "-Xmx256m -Xms256m"
+	    }
+	]
+    }
+]

@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="description" content="UNIX consultantie">
+    <meta name="keywords" content="UNIX Linux Solaris AIX consultantie">
+    <meta name="keywords" content="expertise RAILS PHP shell scripting">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.mmrc</title>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="mveIcxvkCNf+DDzDXmQAXl66r44Ov+v/FwN9Z8tB8Dg=" name="csrf-token" />
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <link href="/assets/application-8742f1af331cdbdd2660acd3e5a87e8a.css" media="all" rel="stylesheet" type="text/css" />
+
+    <!-- For third-generation iPad with high-resolution Retina display: -->
+    <!-- Size should be 144 x 144 pixels -->
+    <link href="/assets/apple-touch-icon-144x144-precomposed-dacfd334ebd968b8e42f0f1bfb3b3a20.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png" />
+
+    <!-- For iPhone with high-resolution Retina display: -->
+    <!-- Size should be 114 x 114 pixels -->
+    <link href="/assets/apple-touch-icon-114x114-precomposed-6aff595decafd8e721a4d48fd0716a52.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png" />
+
+    <!-- For first- and second-generation iPad: -->
+    <!-- Size should be 72 x 72 pixels -->
+    <link href="/assets/apple-touch-icon-72x72-precomposed-92e7bd225775e4b726870e412522674b.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png" />
+
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <!-- Size should be 57 x 57 pixels -->
+    <link href="/assets/apple-touch-icon-precomposed-07cebbaebf667b0aeff851981dd8924b.png" rel="apple-touch-icon-precomposed" type="image/png" />
+
+    <!-- For all other devices -->
+    <!-- Size should be 32 x 32 pixels -->
+    <link href="/assets/favicon-e03c159135b4d5ecc552d8e5b23d2c5c.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+    <script src="/assets/application-e6ec9fa29c9f5d199c56b9b8bf795634.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-34806201-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+	<div class="span5">
+	  <a class="brand" href="/">
+            <img src="/assets/mmrc-6550704cc288c648bb05d4eabe5aada6.png" alt=".mmrc" />
+	  </a>
+	</div>
+	<div class="span7">
+	  <div class="navbar navbar-fluid-middle">
+	    <div class="navbar-inner">
+	      <ul class="nav" role="navigation">
+		<li><a href="/contact">Contact</a></li>
+		<li class="dropdown">
+		  <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="drop1" role="button">CVs <b class="caret"></b></a>
+
+		  <ul class="dropdown-menu" aria-labelledby="drop1"
+		      role="menu">
+		    <li><a href="/cv">CV Mathijs</a></li>
+		    <li><a href="/cv-mathijs.pdf">Download PDF</a>
+		    </li>
+		  </ul>
+		</li>
+	      </ul>
+	    </div>
+	  </div>
+	  <img class="shadow" src="/assets/shadow-786bf5013041e5c08e345498547e77ae.png"/>
+	</div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span2">
+	</div>
+        <div class="span8">
+          
+          <div class="well">
+  <section itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h1>Curriculum vitae
+   <span itemprop="name">Mathijs M&ouml;hlmann</span></h1>
+<center><a class="btn btn-primary" href="cv-mathijs.pdf">
+      Download PDF
+      	</a></center>
+
+<hr>
+<h2>Personalia</h2>
+<table width="100%">
+   
+   
+   
+   <tr>
+      <td class="left">Naam:
+         	      <br></td>
+      <td>
+         <p>Mathijs M&ouml;hlmann</p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Titel:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <span itemprop="jobTitle">DevOps Cloud specialist</span>
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Geboortedatum:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <span itemprop="birthDate">11 maart 1974</span>
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Woonplaats:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <span itemprop="addressLocality">Amersfoort</span>
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Burgerlijke staat:
+         	      <br></td>
+      <td>
+         <p>alleenstaand, twee kinderen</p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Nationaliteit:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <span itemprop="nationality">Nederlandse</span>
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Rijbewijs:
+         	      <br></td>
+      <td>
+         <p>B</p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Talen:
+         	      <br></td>
+      <td>
+         <p>
+            
+            
+            <taal>Nederlands</taal>
+            
+            
+            <taal>Engels</taal>
+            
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Beschikbaar per:
+         	      <br></td>
+      <td>
+         <p>1 juni 2020</p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">E-Mail:
+         	      <br></td>
+      <td>
+         <p><a href="mailto:mathijs@mmrc.nl">info@mmrc.nl</a></p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Telefoon:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <span itemprop="telephone">+31 (0)6 5435 2215</span>
+            
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Online versie:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <a href="http://www.mmrc.nl" itemprop="url">http://www.mmrc.nl</a>
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">LinkedIn:
+         	      <br></td>
+      <td>
+         <p>
+            
+            <a itemprop="url" href="http://nl.linkedin.com/pub/mathijs-m%C3%B6hlmann/1/460/433/">
+               Mathijs M&ouml;hlmann</a>
+            
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left">Hobbies:
+         	      <br></td>
+      <td>
+         <p>
+            Hardlopen, (wedstrijd)zeilen, schaken, lezen, opera
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+</table>
+
+<hr>
+<h2>Profiel</h2>
+<table width="100%">
+   
+   
+   <tr>
+      <td>
+         <p>
+            	Ik ben een gedreven en creatieve IT-consultant en heb me de
+            	afgelopen 20 jaar ontwikkeld tot een veelzijdige
+            	architect. Mijn visie weet ik op een pragmatische en
+            	toekomstgerichte manier te vertalen naar elegante en robuuste
+            	oplossingen.
+            
+         </p>
+         <p>
+            	Ik heb veel ervaring met grote en kleinere organisaties, zowel
+            	bedrijven als overheden. Een goed gevoel voor commerci&euml;le
+            	doelstellingen en kan deze in lijn brengen met de technische
+            	realiteit. Ik ben sterk in het goed overzien van complexe
+            	systemen. Mijn ruim gevulde gereedschapskist met benodigde
+            	kennis vul ik continu aan. Nieuwe technieken, applicaties en
+            	talen maak ik me snel eigen.
+            
+         </p>
+         <p>
+            	Als team speler weet ik de mensen om me heen te
+            	enthousiasmeren en op een hoger niveau te brengen door mijn
+            	kennis te delen. Ik heb gevoel voor humor en ben prettig om
+            	mee samen te werken. Ik streef naar een cultuur van openheid,
+            	zodat mensen het maximale uit zichzelf kunnen halen voor het
+            	beste resultaat.
+            
+         </p>
+         <p>
+            	Specialisatie: ontwerpen, realiseren en programmeren van
+            	DevOps omgevingen voor complexe IT-vraagstukken. Gebruik
+            	makend van virtualizatie technieken en cloud oplossingen. Met
+            	een sterk geloof in de UNIX-manier van werken: 'doing one
+            	thing and doing it right".
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+</table>
+
+<hr>
+<h2>Kennisgebieden</h2>
+<table width="100%">
+   
+   
+   
+   <tr>
+      <td class="left"><b>OS</b> <br></td>
+      <td>
+         <p>
+            	SunOS, Solaris, Linux, RedHat, CentOS, Fedora,
+            	Debian, Gentoo, AIX, OpenBSD, FreeBSD, LVM, Solaris Volume
+            	Manager, Veritas, Metatools, jumpstart, kickstart, NIM
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Cloud / Platform</b> <br></td>
+      <td>
+         <p>
+            	AWS, CloudStack (Cosmic), Kubernetes, docker, habitat, Hadoop,
+            	VMWare ESX, OpenCloud, SUN 10k, T5440, IBM P-series, LPARs, LDOMs,
+            	Intel, FlexPod
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Programmeren</b> <br></td>
+      <td>
+         <p> 
+            	C, perl, ruby, python, go, php, java, ruport, redis, lex, yacc, LISP,
+            	linux kernel, device drivers, posix, The Art of Computer
+            	Programming -Donald Knuth, scripting (ksh, bash), Gtk+, Tcl/Tk,
+            	Ruby on Rails, CakePHP, J2EE, EJB, XSD, dtrace, OOP
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Configuratie management</b> <br></td>
+      <td>
+         <p>
+            	ansible, chef, puppet, terraform, consul, cfengine, vagrant,
+            	git, GNU make, SUN make, gcc, zowel native als crosscompile,
+            	QAC, lint, RCS, SCCS, CVS, Codemanager, Bitkeeper, arch,
+            	SubVersion, emacs, ccache, ctags, etags, cscope, cadappl
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Security</b> <br></td>
+      <td>
+         <p>
+            	Checkpoint FW-1, Stonebeat, PGP, pf, ipf, netfilter, GnuPG,
+            	SpamAssassin, SSL, TLS, iptables
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Internet</b> <br></td>
+      <td>
+         <p>
+            	nginx, unicorn, DNS, bind, squid, sendmail, postfix, apache,
+            	imap, proftp, ntp, ftp, ssh, netsaint, ganglia, collectd,
+            	amanda, LDAP, netwerk topologie, TCP/IP, HTML, XHTML, CSS,
+            	XML, XSLT, WebSphere Application Server, JBoss, Hermes II,
+            	EbMS
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+   <tr>
+      <td class="left"><b>Overig</b> <br></td>
+      <td>
+         <p>
+            Oracle 11, Oracle 12c, Oracle Enterprise Manager, Oracle RAC,
+            WebLogic, TeX, LaTeX, MySQL, PostgreSQL, GNU bayonne en meer.
+            
+         </p>
+      </td>
+   </tr>
+   
+   
+</table>
+
+<hr>
+<h2>Werkervaring</h2>
+<table width="100%">
+   
+   <tr>
+      <td class="left"><b>.mmrc</b> <br>2002-heden
+      </td>
+      <td>
+         <p>
+            	Directeur en eigenaar van <i>.mmrc</i>, leverancier van UNIX
+            	expertise. Gespecialiseerd in DevOps, Cloud en software
+            	ontwikkeling. Veel ervaring met het ontwerpen en realiseren
+            	van complexe IT-oplossingen voor middelgrote en grote
+            	bedrijven.
+            
+         </p>
+         <p>
+            Zeer goed in het doorzien en oplossen van complexe
+            problemen.Tevreden klanten die me graag terug vragen voor een
+            vervolg opdracht..
+            
+         </p>
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Schuberg Philis</b><br><small>2016-2018</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Mission Critical Engineer. Schuberg Philis heeft
+            	  verschillende grote assetmanagement partijen als klant wiens
+            	  applicaties altijd beschikbaar moeten zijn. Als deel van
+            	  zelfsturend team van experts zorgdragen voor 100%
+            	  functionele uptime aan klanten. Ontwerp en implementeer
+            	  hosting voor deze applicaties in de Cosmic (CloudStack)
+            	  cloud van Schuberg Philis.  Gebruikte technieken:
+            	  o.a. chef, terraform, docker kubernetes.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Ontwerp en implementatie van Big Data Hadoop cluster in deze
+            	  cloud ten behoeve van Tableau en Datameer.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>ASML/Itility</b><br><small>2015-2016</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Ontwerp en bouw van een Platform as a Service om Oracle RAC
+            	  en WebLogic clusters en MySQL database servers aan te bieden
+            	  aan de ASML business. Middels puppet is dit platform zoveel
+            	  mogelijk geautomatiseerd uitgerold. Het wordt beheerd door Oracle
+            	  Enterprise Manager. Hierdoor is het een enorm schaalbare
+            	  oplossing geworden. Dit alles op een VMWare ESX omgeving met
+            	  NetApp storage.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Resultaat: de tools ontworpen en gebouwd die ASML in staat
+            	  stelde de enorm business groei beheerbaar te maken.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Inspire</b><br><small>2015-2017</small></td>
+      <td>
+         	
+         
+         <p>
+            	  DevOps voor Kanker.nl webapplicatie in een gevirtualizeerde
+            	  omgeving met gebruikmaking van chef, capistrano, rails. Migreren van
+            	  bovengenoemde applicatie naar een cloud omgeving.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Belastingdienst</b><br><small>2014-2015</small></td>
+      <td>
+         	
+         
+         <p>
+            De voortbrengingsstraat zoals gemaakt op de afdeling
+            Invordering wordt nu ook bij de Douane gebruikt. Ook hier
+            wordt de voortbrengingsstraat gebruikt om WebSphere
+            applicaties met MQ op AIX LPARs en z/OS met DB2 te
+            installeren. Verschillende verbeteringen en toevoegingen
+            gemaakt.
+            
+            <p>
+               	
+               
+            </p>
+            Ook op de afdeling Invordering verschillende verbeteringen
+            doorgevoerd ten behoeve van een applicatie upgrade (WebSphere,
+            MQ, DB2 etc). Middels perl, ksh, git, cvs, NIM en cfengine.
+            	
+         </p>
+         	
+         
+         <p>
+            Onderzoeken en oplossen van performance problemen in een
+            complexe applicatie omgeving.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>WebWizz</b><br><small>2013-2015</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Bouwen van een webapplicatie op basis van CakePHP en mysql
+            	  voor het vergaren van statistische gegevens voor verzekeraars.
+            	  Tevens schrijven van policy en procedures voor een security audit.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Stichting Rinis</b><br><small>2011-2013</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Europa wil gegevevens uit de sociale sector elektronisch
+            	  uitwisselen.  Bouwen van een geautomatiseerde uitrol van
+            	  applicaties door middel van kickstart, puppet, ruby en shell
+            	  scripting. De applicatie is gebouwd middels JBoss,
+            	  postgresql en openldap op RedHat Linux.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Bouwen van een proof of concept middels EbMS Hermes II, ruby
+            	  en rails. Resultaat: Door het oorspronkelijke ontwerp te
+            	  vereenvoudigen kon ik in korte tijd een alternatieve
+            	  implementatie aanbieden, die wel aan alle klantwensen kon
+            	  voldoen.  Implementaties van deze oplossing in Brussel en
+            	  Rome.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>HP/Ahold</b><br><small>2010-juni 2011</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Tijdens mijn eerdere opdracht bij Ahold (toen via EDS) werd
+            	  een groot deel van de Solaris infrastructuur geconsolideerd
+            	  op T2000 machines. Dit maal was ik verantwoordelijk voor het
+            	  ontwerpen van een volgende consolidatieslag naar T5440
+            	  machines middels LDOMs en Solaris Containers.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Verschillende AIX systemen ingericht middels NIM.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Programmeren van collectd plugin (in C) ten behoeve van
+            	  monitoring van deze systemen. Bouw van diverse tool t.b.v.
+            	  beheer (veelal ksh en perl).
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Belastingdienst afd. invordering</b><br><small>2009-juni 2010</small></td>
+      <td>
+         	
+         
+         <p>
+            	  De idee&euml;n over de ISP factory (WebFlex 2001) verder
+            	  uitgebreid. Bij de belastingdienst wordt een ETM applicatie
+            	  voorbereid voor uitrol. Deze voortbrengingsstraat maakt het
+            	  mogelijk om de applicatie(s) en OS installaties door de
+            	  verschillende OTAP fases te loodsen, zonder dat handmatig
+            	  configureren nodig is. Hiervoor wordt gebruik gemaakt van
+            	  perl, ksh, cvs, NIM en cfengine. Er draaien soms vijftig
+            	  verschillende versies van de software naast elkaar. Allemaal
+            	  ge&iuml;nstalleerd vanuit de voortbrengingsstraat.
+            	
+         </p>
+         	
+         
+         <p>
+            	  De ETM applicatie zelf draait middels WebSphere Application
+            	  Server op AIX LPARs, MQ, DB2 op z/OS. Voor verschillende
+            	  aspecten van de applicatie moesten diensten binnen de
+            	  belastingdienst op elkaar worden afgestemd en gekoppeld.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Voor de aansturing van dit alles tevens een web-frontend
+            	  gemaakt op basis van html, css, php, perl en CVS.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Migreren van alle sources uit CVS naar git. Bijbehorende
+            	  ontwikkeltools ombouwen (de snelheidswinst in ontwikkeling
+            	  was enorm) en ontwikkelteam opleiden.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>pxMedia</b><br><small></small></td>
+      <td>
+         	
+         
+         <p>
+            	  Ontwerpen en bouwen van een social media
+            	  webapplicatie op basis van Ruby on Rails, PostgreSQLs en
+            	  Linux.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>EDS/Ahold</b><br><small>2007-2009</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Migreren dubbel datacentra naar een nieuw dubbel datacentra.
+            	  Tevens inrichten van nieuwe projecten op basis van Solaris
+            	  10 containers SVM, AIX, NIM en WebSphere Application Server.
+            	  Performance tuning doormiddel van dtrace. Opzetten van bash
+            	  scripting t.b.v installatie en beheer.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>GlidePath/CTB</b><br><small>2007-juni</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Technisch project leider. Het opnieuw opzetten van een ASP
+            	  ten behoeve van de uitzendbranche.  Op basis van Oracle op
+            	  verschillende IBM System p5 570 met virtualisatie, Network
+            	  Appliance storage en IBM bladecenters. Gebruik makend van
+            	  AIX 5.3, LPARs, NIM en Virtual IO Servers.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>One Media</b><br><small>2005-2006</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Uitbouwen van een chatapplicatie op basis van php, perl,
+            	  ruby en MySQL (Linux en apache). Opzetten van uitgebreide
+            	  rapportage-tooling ten behoeve van verschillende klanten.
+            	  
+         </p>
+         
+         <p>
+            	  Bouwen van verschillende applicaties en spelletjes
+            	  te gebruiken middels SMS en internet.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>GlidePath/I-Bridge</b><br><small>2005-juni</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Het uitrollen van een zelf ontwikkelde applicatie op basis
+            	  van Oracle op basis van een IBM System P5 met AIX en vele
+            	  RedHat linux machines.  Opzetten van dynamische allocaties
+            	  van CPU en memory tussen LPARs. Inrichten 24x7 monitoring
+            	  van de applicaties en machines.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>Schuberg Philis</b><br><small>2004</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Opzetten van verschillende ASP omgevingen op basis van Solaris
+            	  en Linux. Verzorgen van backup scripts en monitoring software.
+            	  Opzetten van StorEdge 3510 en linux RedHat NFS storage.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>One Media</b><br><small>2004</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Met behulp van Open Source (linux, perl, MySQL en GNU
+            	  bayonne) een voiceresponse systeem gemaakt. Resultaat:
+            	  hiermee werd het mogelijk om betalingen op het internet te
+            	  doen via de telefoon.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Bouwen van een failover OpenBSD firewall cluster (pf).
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>ASML</b><br><small>2002-2003</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Beheren van een ontwikkel omgeving voor ongeveer 500
+            	  C-ontwikkelaars.  Versiebeheer met Code-manager (SCCS),
+            	  gcc-compilers en cross-compilers.  Opzetten en onderhouden
+            	  van makefiles, scripting (ksh, perl, python, LISP) en
+            	  programmatuur in C ter ondersteuning van deze
+            	  ontwikkelomgeving.
+            	
+         </p>
+         	
+         
+         <p>
+            	  Resultaat: Zowel snelheid als stabiliteit verbeteringen aan
+            	  de statische code-checking tooling (QAC en lint).  Snelheid
+            	  en stabiliteit verbeteringen aan de nachtelijk build
+            	  (volledig of gedeeltelijk compileren van alle gemaakte
+            	  software).  Onderhoud en uitbreidingen op vele scripting en
+            	  applicaties.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   <tr>
+      <td class="right" align="right"><b>GlidePath/AIX ASP</b><br><small>2002-april</small></td>
+      <td>
+         	
+         
+         <p>
+            	  Realiseren van een ASP op basis van AIX. Configureren 
+            	  van een Enterprise Storage Server, tape robot en opzetten van
+            	  Lotus Domino applicaties.
+            	
+         </p>
+         
+         
+      </td>
+   </tr>
+   
+   <tr>
+      <td class="left"><b>WebFlex</b> <br>1999-2001
+      </td>
+      <td>
+         <p>
+            	Webflex concentreert zich op internet gerelateerde technieken.
+            	Het uitrollen van ISP omgevingen. Log-analyser voor managed
+            	firewall dienst van KPN. iPortal omgeving voor Bouwfonds.
+            
+         </p>
+         <p>
+            	ISP Factory. Op generieke manier ISP machines uitrollen
+            	inclusief alle mogelijke diensten voor ISPs. Tegenwoordig
+            	zouden we deze oplossing DevOps noemen.
+            
+         </p>
+      </td>
+   </tr>
+   
+   <tr>
+      <td class="left"><b>VMX</b> <br>1996-1999
+      </td>
+      <td>
+         <p>
+            	Verschillende projecten voor het beheren en ontwerpen van vaak
+            	complexe op UNIX (Solaris) gebaseerde netwerken. Complexe
+            	sendmail configuratie. Opzetten en schrijven van beheertools
+            	voor een grote firewall omgeving. Ontwikkelen van cursus
+            	materiaal.
+            
+         </p>
+      </td>
+   </tr>
+   
+   <tr>
+      <td class="left"><b>KEMA</b> <br>1995
+      </td>
+      <td>
+         <p>
+            	CBES software geschreven in C voor zowel UNIX als Windows.
+            	CBES is een verzameling van functies en een applicatie voor
+            	het aansturen van apparaten die energie opwekken of
+            	verbruiken.  Doel van de library is om de belasting van het
+            	energienet gedurende de dag en nacht zo gelijk mogelijk te
+            	verdelen.
+            
+         </p>
+         <p>
+            	Tevens software gebouwd voor verschillende doeleinden binnen
+            	de KEMA. Waaronder een driver voor het aansturen van een
+            	printplaat en software voor het verwerken van
+            	meetgegevens. Hierbij gebruik gemaakt van zowel C als HP-VEE.
+            
+         </p>
+      </td>
+   </tr>
+   
+</table>
+
+<hr>
+<h2>Opleidingen</h2>
+<table width="100%">
+   
+   <tr>
+      <td class="left"><b>Cursussen</b> <br>1993-heden
+      </td>
+      <td>
+         <p>
+            	o.a.: Linux Academy: Amazon Machine Learning, AWS Certified
+            	Solutions Architect.  Venwoude Excellent level I (Opening).
+            	(Advanced) System Operator for Solaris, AIX and AS/400, Sun
+            	Cluster training, ISES: Presentation Skills, ITIL.
+            
+         </p>
+      </td>
+   </tr>
+   
+   <tr>
+      <td class="left"><b>HTS</b> <br>1991-1995
+      </td>
+      <td>
+         <p>
+            Hogeschool van Utrecht, Afdeling Elektronica/Telematica.
+            Diploma: 1995.
+            
+         </p>
+      </td>
+   </tr>
+   
+   <tr>
+      <td class="left"><b>HAVO</b> <br>1986-1991
+      </td>
+      <td>
+         <p>
+            College Blaucapel. Diploma: 1991.
+            
+         </p>
+      </td>
+   </tr>
+   
+</table>
+
+    <span class="hide" itemprop="affiliation" itemprop="owns">.mmrc</span>
+    <img class="profile_picture" itemprop="image" src="/mathijs.jpg"/>
+  </section>
+</div>
+
+	  <img class="shadow" src="/assets/shadow-786bf5013041e5c08e345498547e77ae.png"/>
+        </div>
+        <div class="span2">
+	</div>
+      </div><!--/row-->
+
+      <footer>
+      </footer>
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,23 @@
+[
+    {
+	"name": "apache",
+	"image": "${image}",
+	"essential": true,
+	"portMappings": [
+	    {
+		"containerPort": 80,
+		"hostPort": 0
+	    }
+	],
+	"memory": 512,
+	"cpu": 10,
+	"dockerLabels" : {
+	    "co.elastic.logs/module": "apache2",
+	    "co.elastic.logs/fileset.stdout": "access",
+	    "co.elastic.logs/fileset.stderr": "error",
+	    "co.elastic.metrics/module": "apache",
+	    "co.elastic.metrics/metricsets": "status",
+	    "co.elastic.metrics/hosts": "$${data.host}:$${data.port}"
+	}
+    }
+]
